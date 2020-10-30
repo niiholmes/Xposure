@@ -1,0 +1,51 @@
+.iphone12{
+    height: 70%;
+    width: 60%;
+    margin-top: 140px;
+    margin-left: 20%;
+
+}
+
+.caption{
+    margin-left: 24%;
+}
+
+.stories{
+    margin-top: 200px;
+    margin-left: 20%;
+    color: gainsboro;
+}
+
+.paris{
+    margin-top: 100px;
+    width: 50%;
+    height: 60%;
+    margin-left: 370px;
+
+}
+.caption2{
+    margin-left: 370px;
+    margin-top: 10px;
+}
+
+.readMore{
+    color: blue;
+    margin-top: 40px;
+}
+
+.lcontainer2{
+    display: flex;
+}
+
+.livingCity{
+    margin-top: 100px;
+    width: 50%;
+    height: 60%;
+    margin-right: 200px;
+
+}
+
+.caption3{
+    margin-right: 290px;
+    margin-top: 10px;
+}
